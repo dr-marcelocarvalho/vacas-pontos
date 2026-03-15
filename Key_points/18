@@ -1,0 +1,379 @@
+{
+  "id": 18,
+  "result": [
+    {
+      "original_width": 1289,
+      "original_height": 525,
+      "image_rotation": 0,
+      "value": {
+        "x": 10.781476121562953,
+        "y": 55.07408173110054,
+        "width": 0.1447178002894356,
+        "keypointlabels": [
+          "withers"
+        ]
+      },
+      "id": "GCsaVbaBBc",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1289,
+      "original_height": 525,
+      "image_rotation": 0,
+      "value": {
+        "x": 10.781476121562953,
+        "y": 55.07408173110054,
+        "width": 0.1447178002894356,
+        "choices": [
+          "Vis\u00edvel"
+        ]
+      },
+      "id": "GCsaVbaBBc",
+      "from_name": "visibility",
+      "to_name": "img-1",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1289,
+      "original_height": 525,
+      "image_rotation": 0,
+      "value": {
+        "x": 38.40728510676599,
+        "y": 44.071852802368134,
+        "width": 0.1447178002894356,
+        "keypointlabels": [
+          "back"
+        ]
+      },
+      "id": "3EDRcYvR9C",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1289,
+      "original_height": 525,
+      "image_rotation": 0,
+      "value": {
+        "x": 38.40728510676599,
+        "y": 44.071852802368134,
+        "width": 0.1447178002894356,
+        "choices": [
+          "Vis\u00edvel"
+        ]
+      },
+      "id": "3EDRcYvR9C",
+      "from_name": "visibility",
+      "to_name": "img-1",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1289,
+      "original_height": 525,
+      "image_rotation": 0,
+      "value": {
+        "x": 67.80028943560058,
+        "y": 2.4872165943077666,
+        "width": 0.1447178002894356,
+        "keypointlabels": [
+          "hook up"
+        ]
+      },
+      "id": "qfLeYraSiW",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1289,
+      "original_height": 525,
+      "image_rotation": 0,
+      "value": {
+        "x": 67.80028943560058,
+        "y": 2.4872165943077666,
+        "width": 0.1447178002894356,
+        "choices": [
+          "Vis\u00edvel"
+        ]
+      },
+      "id": "qfLeYraSiW",
+      "from_name": "visibility",
+      "to_name": "img-1",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1289,
+      "original_height": 525,
+      "image_rotation": 0,
+      "value": {
+        "x": 67.65557163531113,
+        "y": 96.29079219709787,
+        "width": 0.1447178002894356,
+        "keypointlabels": [
+          "hook down"
+        ]
+      },
+      "id": "p-v1pd-mPM",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1289,
+      "original_height": 525,
+      "image_rotation": 0,
+      "value": {
+        "x": 67.65557163531113,
+        "y": 96.29079219709787,
+        "width": 0.1447178002894356,
+        "choices": [
+          "Vis\u00edvel"
+        ]
+      },
+      "id": "p-v1pd-mPM",
+      "from_name": "visibility",
+      "to_name": "img-1",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1289,
+      "original_height": 525,
+      "image_rotation": 0,
+      "value": {
+        "x": 74.35139670906976,
+        "y": 50.990737387195374,
+        "width": 0.1447178002894356,
+        "keypointlabels": [
+          "hip"
+        ]
+      },
+      "id": "S9rJsy7S1L",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1289,
+      "original_height": 525,
+      "image_rotation": 0,
+      "value": {
+        "x": 74.35139670906976,
+        "y": 50.990737387195374,
+        "width": 0.1447178002894356,
+        "choices": [
+          "Vis\u00edvel"
+        ]
+      },
+      "id": "S9rJsy7S1L",
+      "from_name": "visibility",
+      "to_name": "img-1",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1289,
+      "original_height": 525,
+      "image_rotation": 0,
+      "value": {
+        "x": 90.0868299636449,
+        "y": 52.05391615419308,
+        "width": 0.1447178002894356,
+        "keypointlabels": [
+          "tail head"
+        ]
+      },
+      "id": "fOd80U4hmC",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1289,
+      "original_height": 525,
+      "image_rotation": 0,
+      "value": {
+        "x": 90.0868299636449,
+        "y": 52.05391615419308,
+        "width": 0.1447178002894356,
+        "choices": [
+          "Vis\u00edvel"
+        ]
+      },
+      "id": "fOd80U4hmC",
+      "from_name": "visibility",
+      "to_name": "img-1",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1289,
+      "original_height": 525,
+      "image_rotation": 0,
+      "value": {
+        "x": 95.51203471706798,
+        "y": 28.970795234426554,
+        "width": 0.1447178002894356,
+        "keypointlabels": [
+          "pin up"
+        ]
+      },
+      "id": "BvK5V2hzRF",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1289,
+      "original_height": 525,
+      "image_rotation": 0,
+      "value": {
+        "x": 95.51203471706798,
+        "y": 28.970795234426554,
+        "width": 0.1447178002894356,
+        "choices": [
+          "Vis\u00edvel"
+        ]
+      },
+      "id": "BvK5V2hzRF",
+      "from_name": "visibility",
+      "to_name": "img-1",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1289,
+      "original_height": 525,
+      "image_rotation": 0,
+      "value": {
+        "x": 95.58325368966894,
+        "y": 70.0057729086056,
+        "width": 0.1447178002894356,
+        "keypointlabels": [
+          "pin down"
+        ]
+      },
+      "id": "1Lrf69qyWq",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1289,
+      "original_height": 525,
+      "image_rotation": 0,
+      "value": {
+        "x": 95.58325368966894,
+        "y": 70.0057729086056,
+        "width": 0.1447178002894356,
+        "choices": [
+          "Vis\u00edvel"
+        ]
+      },
+      "id": "1Lrf69qyWq",
+      "from_name": "visibility",
+      "to_name": "img-1",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1289,
+      "original_height": 525,
+      "image_rotation": 0,
+      "value": {
+        "x": 0.795947901591897,
+        "y": 0.7148291184885986,
+        "width": 99.2040520984081,
+        "height": 98.7563917028461,
+        "rotation": 0,
+        "rectanglelabels": [
+          "cow"
+        ]
+      },
+      "id": "JWZVEGjVmL",
+      "from_name": "animal",
+      "to_name": "img-1",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1289,
+      "original_height": 525,
+      "image_rotation": 0,
+      "value": {
+        "x": 0.795947901591897,
+        "y": 0.7148291184885986,
+        "width": 99.2040520984081,
+        "height": 98.7563917028461,
+        "rotation": 0,
+        "choices": [
+          "Vis\u00edvel"
+        ]
+      },
+      "id": "JWZVEGjVmL",
+      "from_name": "visibility",
+      "to_name": "img-1",
+      "type": "choices",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " thaless@gmail.com, 1",
+  "created_ago": "2\u00a0hours, 58\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "thaless@gmail.com"
+  },
+  "task": {
+    "id": 18,
+    "data": {
+      "img": "/data/local-files/?d=Users%5CThales%20Salvador%5Clabel-studio-data%5C20260101_055907_baia17_IPC1.jpg"
+    },
+    "meta": {},
+    "created_at": "2026-02-15T15:46:21.446731Z",
+    "updated_at": "2026-02-15T23:02:40.164702Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 18,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 3,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-02-15T21:49:40.481479Z",
+  "updated_at": "2026-02-15T23:02:40.084436Z",
+  "draft_created_at": "2026-02-15T21:48:01.618003Z",
+  "lead_time": 164.593,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 3,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

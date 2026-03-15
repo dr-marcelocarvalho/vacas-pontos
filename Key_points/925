@@ -1,0 +1,379 @@
+{
+  "id": 31,
+  "result": [
+    {
+      "original_width": 1579,
+      "original_height": 723,
+      "image_rotation": 0,
+      "value": {
+        "x": 14.90065585384442,
+        "y": 36.94915254237288,
+        "width": 0.1552151651442127,
+        "keypointlabels": [
+          "withers"
+        ]
+      },
+      "id": "tiQ6NYBMSK",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1579,
+      "original_height": 723,
+      "image_rotation": 0,
+      "value": {
+        "x": 14.90065585384442,
+        "y": 36.94915254237288,
+        "width": 0.1552151651442127,
+        "choices": [
+          "Vis\u00edvel"
+        ]
+      },
+      "id": "tiQ6NYBMSK",
+      "from_name": "visibility",
+      "to_name": "img-1",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1579,
+      "original_height": 723,
+      "image_rotation": 0,
+      "value": {
+        "x": 38.95900645119739,
+        "y": 40.16949152542373,
+        "width": 0.1552151651442127,
+        "keypointlabels": [
+          "back"
+        ]
+      },
+      "id": "taZJiPE--W",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1579,
+      "original_height": 723,
+      "image_rotation": 0,
+      "value": {
+        "x": 38.95900645119739,
+        "y": 40.16949152542373,
+        "width": 0.1552151651442127,
+        "choices": [
+          "Vis\u00edvel"
+        ]
+      },
+      "id": "taZJiPE--W",
+      "from_name": "visibility",
+      "to_name": "img-1",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1579,
+      "original_height": 723,
+      "image_rotation": 0,
+      "value": {
+        "x": 65.30658964201884,
+        "y": 40.93262072719324,
+        "width": 0.1552151651442127,
+        "keypointlabels": [
+          "hip"
+        ]
+      },
+      "id": "JVBacdmW96",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1579,
+      "original_height": 723,
+      "image_rotation": 0,
+      "value": {
+        "x": 65.30658964201884,
+        "y": 40.93262072719324,
+        "width": 0.1552151651442127,
+        "choices": [
+          "Vis\u00edvel"
+        ]
+      },
+      "id": "JVBacdmW96",
+      "from_name": "visibility",
+      "to_name": "img-1",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1579,
+      "original_height": 723,
+      "image_rotation": 0,
+      "value": {
+        "x": 62.08606605768509,
+        "y": 6.779661016949152,
+        "width": 0.1552151651442127,
+        "keypointlabels": [
+          "hook up"
+        ]
+      },
+      "id": "h2hQjKDWk_",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1579,
+      "original_height": 723,
+      "image_rotation": 0,
+      "value": {
+        "x": 62.08606605768509,
+        "y": 6.779661016949152,
+        "width": 0.1552151651442127,
+        "choices": [
+          "Vis\u00edvel"
+        ]
+      },
+      "id": "h2hQjKDWk_",
+      "from_name": "visibility",
+      "to_name": "img-1",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1579,
+      "original_height": 723,
+      "image_rotation": 0,
+      "value": {
+        "x": 57.600653532871185,
+        "y": 80.863488637463,
+        "width": 0.1552151651442127,
+        "keypointlabels": [
+          "hook down"
+        ]
+      },
+      "id": "FHaVg_JBCQ",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1579,
+      "original_height": 723,
+      "image_rotation": 0,
+      "value": {
+        "x": 57.600653532871185,
+        "y": 80.863488637463,
+        "width": 0.1552151651442127,
+        "choices": [
+          "Vis\u00edvel"
+        ]
+      },
+      "id": "FHaVg_JBCQ",
+      "from_name": "visibility",
+      "to_name": "img-1",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1579,
+      "original_height": 723,
+      "image_rotation": 0,
+      "value": {
+        "x": 75.86083868700801,
+        "y": 41.93186951994032,
+        "width": 0.1552151651442127,
+        "keypointlabels": [
+          "tail head"
+        ]
+      },
+      "id": "dGV3BcuvHs",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1579,
+      "original_height": 723,
+      "image_rotation": 0,
+      "value": {
+        "x": 75.86083868700801,
+        "y": 41.93186951994032,
+        "width": 0.1552151651442127,
+        "choices": [
+          "Vis\u00edvel"
+        ]
+      },
+      "id": "dGV3BcuvHs",
+      "from_name": "visibility",
+      "to_name": "img-1",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1579,
+      "original_height": 723,
+      "image_rotation": 0,
+      "value": {
+        "x": 90.10240336621548,
+        "y": 22.71186440677966,
+        "width": 0.1552151651442127,
+        "keypointlabels": [
+          "pin up"
+        ]
+      },
+      "id": "RfqQHwfWTZ",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1579,
+      "original_height": 723,
+      "image_rotation": 0,
+      "value": {
+        "x": 90.10240336621548,
+        "y": 22.71186440677966,
+        "width": 0.1552151651442127,
+        "choices": [
+          "Vis\u00edvel"
+        ]
+      },
+      "id": "RfqQHwfWTZ",
+      "from_name": "visibility",
+      "to_name": "img-1",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1579,
+      "original_height": 723,
+      "image_rotation": 0,
+      "value": {
+        "x": 88.78307446248968,
+        "y": 68.13559322033899,
+        "width": 0.1552151651442127,
+        "keypointlabels": [
+          "pin down"
+        ]
+      },
+      "id": "sS3ZNcy9Vg",
+      "from_name": "kp-1",
+      "to_name": "img-1",
+      "type": "keypointlabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1579,
+      "original_height": 723,
+      "image_rotation": 0,
+      "value": {
+        "x": 88.78307446248968,
+        "y": 68.13559322033899,
+        "width": 0.1552151651442127,
+        "choices": [
+          "Vis\u00edvel"
+        ]
+      },
+      "id": "sS3ZNcy9Vg",
+      "from_name": "visibility",
+      "to_name": "img-1",
+      "type": "choices",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1579,
+      "original_height": 723,
+      "image_rotation": 0,
+      "value": {
+        "x": 0.14749262536873156,
+        "y": 0.3221173657776309,
+        "width": 99.85250737463127,
+        "height": 99.67788263422237,
+        "rotation": 0,
+        "rectanglelabels": [
+          "cow"
+        ]
+      },
+      "id": "SeCqqVH0B-",
+      "from_name": "animal",
+      "to_name": "img-1",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1579,
+      "original_height": 723,
+      "image_rotation": 0,
+      "value": {
+        "x": 0.14749262536873156,
+        "y": 0.3221173657776309,
+        "width": 99.85250737463127,
+        "height": 99.67788263422237,
+        "rotation": 0,
+        "choices": [
+          "Vis\u00edvel"
+        ]
+      },
+      "id": "SeCqqVH0B-",
+      "from_name": "visibility",
+      "to_name": "img-1",
+      "type": "choices",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " rpa1tera@gmail.com, 1",
+  "created_ago": "1\u00a0day, 21\u00a0hours",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "rpa1tera@gmail.com"
+  },
+  "task": {
+    "id": 31,
+    "data": {
+      "img": "/data/upload/1/3e4b988f-RLC4_00_20260101125909_baia1_RLC4.jpg"
+    },
+    "meta": {},
+    "created_at": "2026-02-14T20:23:37.546623Z",
+    "updated_at": "2026-02-16T20:35:23.780759Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 31,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": 31,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-02-14T22:52:11.839915Z",
+  "updated_at": "2026-02-16T20:35:23.717800Z",
+  "draft_created_at": "2026-02-14T22:51:37.721726Z",
+  "lead_time": 92.728,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}
