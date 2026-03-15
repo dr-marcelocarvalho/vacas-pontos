@@ -1,6 +1,6 @@
 # 🐄 Cows Challenge — Identificação Individual de Vacas via Pose Estimation
 
-** Aluno: ** Marcelo de Rezende Carvalho
+**Aluno:** Marcelo de Rezende Carvalho
 
 Pipeline em Python para identificar vacas individualmente a partir de imagens de visão superior durante a ordenha. A ideia é combinar um modelo YOLO Pose (que detecta 8 keypoints anatômicos por animal) com classificadores clássicos de Machine Learning para resolver um problema que parece simples, mas tem bastante nuance: vacas da mesma raça, no mesmo ambiente, fotografadas do mesmo ângulo são difíceis de diferenciar.
 
