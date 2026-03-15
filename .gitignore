@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# YOLO training runs (large logs/weights)
+outputs/runs/
+
+# Trained models (large binary files)
+outputs/models/*.pt
+outputs/models/*.joblib
+
+# Generated data
+data/processed/
+data/subset_yolo_pose/
+
+# Generated reports and figures
+outputs/reports/
+outputs/figures/
+
+# Temporary files
+tmp_*.py
+tmp_*.txt
+*.tmp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Byte-compiled
+*.pyc
